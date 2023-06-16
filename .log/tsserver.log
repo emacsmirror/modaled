@@ -1,0 +1,14 @@
+Info 0    [14:11:54.061] Starting TS Server
+Info 1    [14:11:54.061] Version: 4.7.4
+Info 2    [14:11:54.061] Arguments: /usr/bin/node /home/s53fu/.node_modules/lib/node_modules/typescript/lib/tsserver.js --logFile /home/s53fu/repo/modaled/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/cfa085dce9b74df7d8b46b8570aff55e/tscancellation*
+Info 3    [14:11:54.061] Platform: linux NodeVersion: 19 CaseSensitive: true
+Info 4    [14:11:54.061] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [14:11:54.081] Format host information updated
+Info 6    [14:11:54.112] Search path: /home/s53fu/repo/modaled
+Info 7    [14:11:54.113] For info: /home/s53fu/repo/modaled/atomic.js :: No config files found.
+Info 8    [14:11:54.120] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [14:11:55.152] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1030.9249529987574ms
+Info 10   [14:11:55.152] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [14:11:55.152] 	Files (19)
+
+Info 12   [14:11:55.152] -----------------------------------------------

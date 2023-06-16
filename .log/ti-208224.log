@@ -1,0 +1,62 @@
+[14:11:54.462] Global cache location '/home/s53fu/.cache/typescript/4.7', safe file path '/home/s53fu/.node_modules/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/s53fu/.node_modules/lib/node_modules/typescript/lib/typesMap.json
+[14:11:54.464] Processing cache location '/home/s53fu/.cache/typescript/4.7'
+[14:11:54.464] Trying to find '/home/s53fu/.cache/typescript/4.7/package.json'...
+[14:11:54.466] Loaded content of '/home/s53fu/.cache/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.648"},"devDependencies":{"@types/babel__core":"^7.20.0","@types/babel__preset-env":"^7.9.2","@types/body-parser":"^1.19.2","@types/eslint":"^8.4.10","@types/express":"^4.17.15","@types/follow-redirects":"^1.14.1","@types/formidable":"^2.0.5","@types/fs-extra":"^11.0.1","@types/gulp":"^4.0.10","@types/karma":"^6.3.3","@types/karma-chrome-launcher":"^3.1.1","@types/karma-firefox-launcher":"^2.1.1","@types/karma-jasmine":"^4.0.2","@types/karma-rollup-preprocessor":"^7.0.0","@types/luxon":"^3.2.0","@types/minimist":"^1.2.2","@types/mocha":"^10.0.1","@types/multer":"^1.4.7","@types/node":"^18.15.11","@types/proxy-from-env":"^1.0.1","@types/rollup-plugin-auto-external":"^2.0.2","@types/sinon":"^10.0.13","@types/stream-throttle":"^0.1.1","@types/url-search-params":"^1.1.0"}}
+[14:11:54.466] Loaded content of '/home/s53fu/.cache/typescript/4.7/package-lock.json'
+[14:11:54.483] Adding entry into typings cache: 'babel__core' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/babel__core/index.d.ts'
+[14:11:54.485] Adding entry into typings cache: 'babel__preset-env' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/babel__preset-env/index.d.ts'
+[14:11:54.487] Adding entry into typings cache: 'body-parser' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/body-parser/index.d.ts'
+[14:11:54.490] Adding entry into typings cache: 'eslint' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/eslint/index.d.ts'
+[14:11:54.491] Adding entry into typings cache: 'express' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/express/index.d.ts'
+[14:11:54.493] Adding entry into typings cache: 'follow-redirects' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/follow-redirects/index.d.ts'
+[14:11:54.494] Adding entry into typings cache: 'formidable' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/formidable/index.d.ts'
+[14:11:54.500] Adding entry into typings cache: 'fs-extra' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/fs-extra/index.d.ts'
+[14:11:54.501] Adding entry into typings cache: 'gulp' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/gulp/index.d.ts'
+[14:11:54.503] Adding entry into typings cache: 'karma' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/karma/index.d.ts'
+[14:11:54.504] Adding entry into typings cache: 'karma-chrome-launcher' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/karma-chrome-launcher/index.d.ts'
+[14:11:54.505] Adding entry into typings cache: 'karma-firefox-launcher' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/karma-firefox-launcher/index.d.ts'
+[14:11:54.506] Adding entry into typings cache: 'karma-jasmine' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/karma-jasmine/index.d.ts'
+[14:11:54.507] Adding entry into typings cache: 'karma-rollup-preprocessor' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/karma-rollup-preprocessor/index.d.ts'
+[14:11:54.508] Adding entry into typings cache: 'luxon' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/luxon/index.d.ts'
+[14:11:54.510] Adding entry into typings cache: 'minimist' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/minimist/index.d.ts'
+[14:11:54.511] Adding entry into typings cache: 'mocha' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/mocha/index.d.ts'
+[14:11:54.512] Adding entry into typings cache: 'multer' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/multer/index.d.ts'
+[14:11:54.518] Adding entry into typings cache: 'node' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/node/ts4.8/index.d.ts'
+[14:11:54.519] Adding entry into typings cache: 'proxy-from-env' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/proxy-from-env/index.d.ts'
+[14:11:54.520] Adding entry into typings cache: 'rollup-plugin-auto-external' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/rollup-plugin-auto-external/index.d.ts'
+[14:11:54.522] Adding entry into typings cache: 'sinon' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/sinon/index.d.ts'
+[14:11:54.523] Adding entry into typings cache: 'stream-throttle' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/stream-throttle/index.d.ts'
+[14:11:54.524] Adding entry into typings cache: 'url-search-params' => '/home/s53fu/.cache/typescript/4.7/node_modules/@types/url-search-params/index.d.ts'
+[14:11:54.524] Finished processing cache location '/home/s53fu/.cache/typescript/4.7'
+[14:11:54.524] Process id: 208233
+[14:11:54.524] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[14:11:54.524] validateDefaultNpmLocation: false
+[14:11:54.525] Npm config file: /home/s53fu/.cache/typescript/4.7/package.json
+[14:11:54.525] Updating types-registry npm package...
+[14:11:54.525] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[14:11:56.033]     Succeeded. stdout:
+    
+    up to date, audited 85 packages in 870ms
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[14:11:56.034] Updated types-registry npm package
+[14:11:56.166] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2016.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/s53fu/.node_modules/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/s53fu/repo/modaled/atomic.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/s53fu/repo/modaled","kind":"discover"}
+[14:11:56.183] Loaded safelist from types map file '/home/s53fu/.node_modules/lib/node_modules/typescript/lib/typesMap.json'
+[14:11:56.184] Explicitly included types: []
+[14:11:56.185] Inferred typings from unresolved imports: []
+[14:11:56.185] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/s53fu/repo/modaled/bower_components","/home/s53fu/repo/modaled/node_modules"]}
+[14:11:56.185] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/s53fu/repo/modaled/bower_components","/home/s53fu/repo/modaled/node_modules"]}
+[14:11:56.186] DirectoryWatcher:: Added:: WatchInfo: /home/s53fu/repo/modaled/bower_components
+[14:11:56.187] DirectoryWatcher:: Added:: WatchInfo: /home/s53fu/repo/modaled/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:11:56.190] Elapsed:: 2.5362549982964993ms DirectoryWatcher:: Added:: WatchInfo: /home/s53fu/repo/modaled/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:11:56.190] DirectoryWatcher:: Added:: WatchInfo: /home/s53fu/repo/modaled/node_modules
+[14:11:56.190] DirectoryWatcher:: Added:: WatchInfo: /home/s53fu/repo/modaled/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:11:56.190] Elapsed:: 0.1255830004811287ms DirectoryWatcher:: Added:: WatchInfo: /home/s53fu/repo/modaled/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:11:56.191] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[14:11:56.191] Response has been sent.
+[14:11:56.191] No new typings were requested as a result of typings discovery
